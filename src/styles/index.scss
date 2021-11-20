@@ -1,0 +1,23 @@
+@import './home/header.scss';
+@import './QuiSommeNous/NotreHistoire.scss';
+
+.text-shadow-black{
+    text-shadow: 1px 1px 20px black;
+}
+.bg-black{
+    background-color : #212529!important;
+    color :white;
+}
+.btn-primary{
+    background-color : #212529!important;
+    border:black;
+}
+
+.btn-primary:hover{
+    background-color: white!important;
+    color:black!important;
+}
+
+.logo{
+    height: 50px;
+}
